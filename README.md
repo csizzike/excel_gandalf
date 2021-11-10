@@ -1,8 +1,7 @@
 
 # Excel Gandalf (∩｀-´)⊃━☆ﾟ.*・｡ﾟ
 
-This tool was created to reorder the columns of multiple excel files at the same time. 
-
+This tool helps you reorganize the columns order of multiple excel files at once.
 The usage of the tool is rather simple, you only need to select an excel file you wish to use as a template.
 After you load the excel, the header columns are loaded into the list. 
 With the buttons, you can set the column order to your desire. After you are done with setting your order, you can click Next.
