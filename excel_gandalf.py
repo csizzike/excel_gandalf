@@ -3,7 +3,7 @@ import pandas as pd
 
 sg.theme('Light Blue 2')
 sg.set_global_icon(icon='icon\gandalf.ico')
-sg.set_options(icon='C:\Máté\ExcelGandalf\icon\gandalf.ico')
+sg.set_options(icon='icon\gandalf.ico')
 
 final_list = []
 
